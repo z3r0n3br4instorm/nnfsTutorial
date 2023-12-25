@@ -2,7 +2,7 @@ from turtle import forward
 import numpy as np
 import nnfs
 from nnfs.datasets import spiral_data
-
+#Have to implement the optimization layer
 nnfs.init()
 
 # X =[[1, 2, 3, 2.5],
